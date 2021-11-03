@@ -1,0 +1,7 @@
+2003-07-16
+
+https://www.mail-archive.com/redhat-devel-list@redhat.com/msg07038.html
+
+Michael Redinger announces on redhat-devel-list that he has created
+rhel-rebuild-l for the purpose of "discussion about rebuilding and
+installing a Linux system based on the SRPMS of Red Hat Enterprise Linux."
