@@ -1,6 +1,6 @@
 2003-09-22
 
-https://listman.redhat.com/archives/fedora-devel-list/2003-September/msg00137.html
+https://listman.redhat.com/archives/rhl-list/2003-September/msg00064.html
 
 Michael K. Johnson announces the merger of Red Hat Linux and the Fedora
 Linux Project into the Fedora Project.
